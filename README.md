@@ -10,10 +10,10 @@ Yu Pan, Yifan Tong, and Yi Yang
 
 2. Download required packages
 
-  pip install pyqpanda
+            pip install pyqpanda
 
-  pip install numpy
+            pip install numpy
 
-  pip install pandas
+            pip install pandas
 
 3. Run the code
